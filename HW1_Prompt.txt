@@ -1,0 +1,15 @@
+1.[10 points] Write a C++ program that can take in a mathematical expression in "infix" or "prefix" notation and convert it to the other notation. If you do not remember infix and prefix notations from math class, the following link can help refresh your memory: http://www.cs.man.ac.uk/~pjj/cs212/fix.html (Links to an external site.)Links to an external site.
+
+Notes:
+1. Use the STL <stack> class. No need to create your own stack class/implementation.
+2. Create separate functions such as prefixToInfix() and infixToPrefix() in order to separate the tasks.
+3. You need not evaluate the expression's value. However, it may be the only way to test that your code is working.
+4. Submit the following:
+
+a. All your code files and any library files beyond the standard libraries it needs in order to run
+
+b. Screenshots of the execution of your program
+
+c. A readme file explaining how to run your program
+
+2. [5 points] Don't forget to Peer Review!

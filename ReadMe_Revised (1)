@@ -1,0 +1,1 @@
+Functions use single-digit variables/numbers and cannot have spaces. The function for prefixToInfix does not output the expected result; I believe the algorithm for the recursive step is correct, and think error occurs when reversing the string.
